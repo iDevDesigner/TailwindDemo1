@@ -1,0 +1,8 @@
+a {
+    cursor: pointer;
+}
+
+header,
+footer {
+    background-color: rgb(237, 242, 247);
+}
